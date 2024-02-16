@@ -45,7 +45,7 @@ Se imprimen los caracteres por separado.
                     print(caracter)
 Importamos el *modulo json* para poder trabajar con los datos del archivo .json.
 Se implementa la estructura *with*  en conjunto de *open()* que contiene la ruta del archivo en cuestión para poder abrirlo y asignarse a la variable *myfile*.
-Se crea una una nueva variable *data* y se asigna la lectura del archivo en en formato *str*.
+Se crea una una nueva variable *data* y se asigna la lectura del archivo en formato *str*.
 Por ultimo, con el ciclo for se itera sobre cada caracter de la variable data y se condiciona para imprimir en pantalla los saltos de linea y espacios que se puediesen encontrar.
 
 
